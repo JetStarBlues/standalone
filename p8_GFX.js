@@ -54,22 +54,22 @@ var reshapeMap = function ( mapp ) {
 var p8Palette = [
     
     //PICO 8
-	color( 0, 0, 0 ),
-	color( 29, 43, 83 ),
-	color( 126, 37, 83 ),
-	color( 0, 135, 81 ),
-	color( 171, 82, 54 ),
-	color( 95, 87, 79 ),
-	color( 194, 195, 199 ),
+    color( 0, 0, 0 ),
+    color( 29, 43, 83 ),
+    color( 126, 37, 83 ),
+    color( 0, 135, 81 ),
+    color( 171, 82, 54 ),
+    color( 95, 87, 79 ),
+    color( 194, 195, 199 ),
     color( 255, 241, 232 ),
-	color( 255, 0, 77 ),
-	color( 255, 163, 0 ),
-	color( 255, 236, 39 ),
-	color( 0, 228, 54 ),
-	color( 41, 173, 255 ),
-	color( 131, 118, 156 ),
-	color( 255, 119, 168 ),
-	color( 255, 204, 170 )
+    color( 255, 0, 77 ),
+    color( 255, 163, 0 ),
+    color( 255, 236, 39 ),
+    color( 0, 228, 54 ),
+    color( 41, 173, 255 ),
+    color( 131, 118, 156 ),
+    color( 255, 119, 168 ),
+    color( 255, 204, 170 )
 ];
 
 // Get pjs color using hex index
